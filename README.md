@@ -34,22 +34,24 @@ Objective: **symbolically illustrate the conversion of an ordinary gesture (cros
 ---
 
 ## 📜 License & governance
-This project is under a **dual license model:**
+
+This project is under a **dual license model**:
 
 - **Non-commercial open license:**
   - CERN-OHL-S v2.0 for schematics and hardware.
   - CC-BY-NC-SA 4.0 for documentation/images.
-  - See `governance/DUAL_LICENSE.md`.
+  - See [DUAL_LICENSE.md](governance/DUAL_LICENSE.md).
 
 - **Optional commercial license:**
   - Commercial exploitation: €4,000/year (indexed on 1.5 oz gold).
-  - Example: `governance/COMMERCIAL_LICENSE_EN.md`.
+  - Example: [COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md).
   - Purchase: [LemonSqueezy](https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad).
 
-- Full legal notices:
-  - `governance/LEGAL_NOTICE.md` & `governance/LEGAL_POSITION.md`:
+- **Full legal notices:**
+  - [LEGAL_NOTICE.md](governance/LEGAL_NOTICE.md) & [LEGAL_POSITION.md](governance/LEGAL_POSITION.md):
     - Author retains all commercial rights,
     - GitHub publication = proof of prior art.
+
 
 ---
 
@@ -99,15 +101,15 @@ Ce projet est sous **double licence :**
 - **Licence libre non-commerciale :**
   - CERN-OHL-S v2.0 pour les schémas et matériels.
   - CC-BY-NC-SA 4.0 pour documentation / images.
-  - Voir `governance/DUAL_LICENSE.md`.
+  - Voir [DUAL_LICENSE.md](governance/DUAL_LICENSE.md).
 
 - **Licence commerciale optionnelle :**
   - Exploitation commerciale : 4 000 €/an (indexée sur 1,5 oz d’or).
-  - Exemple : `governance/COMMERCIAL_LICENSE_EN.md`.
+  - Exemple : [COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md).
   - Acquisition : [LemonSqueezy](https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad).
 
 - Mentions légales complètes :
-  - `governance/LEGAL_NOTICE.md` & `governance/LEGAL_POSITION.md` :
+  - [LEGAL_NOTICE.md](governance/LEGAL_NOTICE.md) & [LEGAL_POSITION.md](governance/LEGAL_POSITION.md):
     - L’auteur conserve tous droits commerciaux,
     - Dépôt GitHub = preuve d’antériorité.
 
