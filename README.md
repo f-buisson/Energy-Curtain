@@ -1,3 +1,5 @@
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
+
 # 🧩 Energy Curtain — Passable energy-harvesting partition
 
 ![Energy Curtain Schema](docs/Energy-Curtain-schema.png)
@@ -43,7 +45,7 @@ This project is under a **dual license model**:
   - See [DUAL_LICENSE.md](governance/DUAL_LICENSE.md).
 
 - **Optional commercial license:**
-  - Commercial exploitation: €4,000/year (indexed on 1.5 oz gold).
+  - Commercial exploitation: €4,000/year
   - Example: [COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md).
   - Purchase: [LemonSqueezy](https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad).
 
@@ -52,6 +54,19 @@ This project is under a **dual license model**:
     - Author retains all commercial rights,
     - GitHub publication = proof of prior art.
 
+---
+
+### 🫶 Support this project
+
+I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
+If you'd like to help the development continue and support new prototypes:  
+👉 https://github.com/sponsors/f-buisson  
+Even a symbolic contribution helps to:
+- fund necessary materials
+- develop and test prototypes
+- cover software licensing fees (SolidWorks, etc.)
+
+Thank you for your support ✦
 
 ---
 
@@ -59,6 +74,9 @@ Author: **Fabien Buisson — Sole Proprietor (SIREN 988 516 506)**
 📧 Contact: [scgfamp@hotmail.com](mailto:scgfamp@hotmail.com)
 
 ---
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
+
 
 # 🧩 Energy Curtain — Paroi franchissable à récupérateur d’énergie
 
@@ -104,7 +122,7 @@ Ce projet est sous **double licence :**
   - Voir [DUAL_LICENSE.md](governance/DUAL_LICENSE.md).
 
 - **Licence commerciale optionnelle :**
-  - Exploitation commerciale : 4 000 €/an (indexée sur 1,5 oz d’or).
+  - Exploitation commerciale : 4 000 €/an
   - Exemple : [COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md).
   - Acquisition : [LemonSqueezy](https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad).
 
@@ -112,6 +130,20 @@ Ce projet est sous **double licence :**
   - [LEGAL_NOTICE.md](governance/LEGAL_NOTICE.md) & [LEGAL_POSITION.md](governance/LEGAL_POSITION.md):
     - L’auteur conserve tous droits commerciaux,
     - Dépôt GitHub = preuve d’antériorité.
+
+---
+
+### 🫶 Soutenir ce projet
+
+Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
+Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
+👉 https://github.com/sponsors/f-buisson  
+Chaque contribution (même symbolique) permet de :
+- financer les matériaux nécessaires
+- développer et tester les prototypes
+- couvrir les licences logicielles (SolidWorks, etc.)
+
+Merci pour ton soutien ✦
 
 ---
 
