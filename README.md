@@ -1,5 +1,8 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
+**Language:** [English](#english) | [Français](#francais)
+
+<a id="english"></a>
 # 🧩 Energy Curtain — Passable energy-harvesting partition
 
 ![Energy Curtain Schema](docs/Energy-Curtain-schema.png)
@@ -77,7 +80,7 @@ Author: **Fabien Buisson — Sole Proprietor (SIREN 988 516 506)**
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
-
+<a id="francais"></a>
 # 🧩 Energy Curtain — Paroi franchissable à récupérateur d’énergie
 
 ![Energy Curtain Schema](docs/Energy-Curtain-schema.png)
